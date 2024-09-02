@@ -18,5 +18,16 @@
       
     </item>
     
+    <item>
+      <title>My First Post</title>
+      <link>https://waterlili1883.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://waterlili1883.github.io/posts/my-first-post/</guid>
+      <description>Hello World # This is my first post using Hugo.
+终于可以开始编辑啦，忙活一晚上 算没白忙活</description>
+      
+    </item>
+    
   </channel>
 </rss>
